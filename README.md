@@ -1,2 +1,3 @@
-# flex-recipe-manager-4oe0
-A recipe management application for modern development workflows
+# Flex Recipe Manager 4Oe0
+
+A recipe management application for modern development workflows.
